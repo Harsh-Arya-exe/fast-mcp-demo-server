@@ -1,0 +1,15 @@
+{
+	"servers": {
+		"DemoServer": {
+			"type": "stdio",
+			"command": "C:\\Users\\harsh\\AppData\\Local\\Programs\\Python\\Python312\\Scripts\\uv.exe",
+			"args": [
+				"run",
+				"fastmcp",
+				"run",
+				"main.py"
+			]
+		}
+	},
+	"inputs": []
+}
